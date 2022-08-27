@@ -21,5 +21,5 @@ void draw(){
   rect(271,160,10,20); //right line
   rect(260,427,45,15); //right toe
   rect(206,427,45,15); //left toe
-  text("creeper", 100,100);
+  text("boom", 100,100);
 }
